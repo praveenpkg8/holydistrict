@@ -1,0 +1,25 @@
+ 
+ .header{
+ margin-top: 15%;
+}
+ .buy_tickets{
+     align-self: center;
+ }
+ .header-text{
+    padding-top: 17%;   
+    font-size: 36px; 
+    font-weight: 900;  
+    color: white; 
+ }
+
+ .btn {
+    color: white;
+    background-color: #7a0722;
+    border-radius: 20px;
+    border: none;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    line-height: 25px;
+}

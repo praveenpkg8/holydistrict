@@ -1,0 +1,27 @@
+#MyImage {
+    position: relative;
+    margin: 20px auto 0;
+    width: 100%;
+
+}
+#theImage {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+#myButton {
+    position: absolute;
+    left: 0px;
+    top: 70%;
+}
+#myButton .btn {
+    color: white;
+    background-color: #7a0722;
+    border-radius: 20px;
+    border: none;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    line-height: 25px;
+}
